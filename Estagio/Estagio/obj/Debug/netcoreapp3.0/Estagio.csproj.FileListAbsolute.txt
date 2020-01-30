@@ -1,0 +1,11 @@
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.exe
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.deps.json
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.runtimeconfig.json
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.runtimeconfig.dev.json
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.dll
+C:\Users\milen\source\repos\Estagio\Estagio\bin\Debug\netcoreapp3.0\Estagio.pdb
+C:\Users\milen\source\repos\Estagio\Estagio\obj\Debug\netcoreapp3.0\Estagio.csprojAssemblyReference.cache
+C:\Users\milen\source\repos\Estagio\Estagio\obj\Debug\netcoreapp3.0\Estagio.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\Estagio\Estagio\obj\Debug\netcoreapp3.0\Estagio.AssemblyInfo.cs
+C:\Users\milen\source\repos\Estagio\Estagio\obj\Debug\netcoreapp3.0\Estagio.dll
+C:\Users\milen\source\repos\Estagio\Estagio\obj\Debug\netcoreapp3.0\Estagio.pdb
