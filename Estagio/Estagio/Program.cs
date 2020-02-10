@@ -10,6 +10,7 @@ namespace Estagio
             int numeroAtual = 1;
             int ateNumero;
             int fibonacci;
+            var a = numeroAtual / numeroAnterior;
 
 
             Console.WriteLine("Informe o numero maximo para o Fibonacci");
