@@ -1,13 +1,11 @@
 "A mente que se expande jamais volta ao seu tamanho original" (albert einstein)
 
-Leitura dos livros
+Leitura do livro
 
 "Visual C# 2008"(John Sharp) 
 
-Desafios:
+Atividades para treinamento seguindo o conteúdo do livro
 
-1°  Receber um valor limitador e mostrar a sequencia de fibonacci até o valor que ultrapasse o limitador e então parar a sequencia
 
-2°  Receber um valor limitador e mostrar a sequencia de números primos até o valor que ultrapasse o limitador e então parar a sequencia
 
 
