@@ -1,0 +1,11 @@
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.exe
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.deps.json
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.runtimeconfig.json
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.runtimeconfig.dev.json
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.dll
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\bin\Debug\netcoreapp3.1\exercicioPrimos.pdb
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\obj\Debug\netcoreapp3.1\exercicioPrimos.csprojAssemblyReference.cache
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\obj\Debug\netcoreapp3.1\exercicioPrimos.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\obj\Debug\netcoreapp3.1\exercicioPrimos.AssemblyInfo.cs
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\obj\Debug\netcoreapp3.1\exercicioPrimos.dll
+C:\Users\milen\source\repos\exercicioPrimos\exercicioPrimos\obj\Debug\netcoreapp3.1\exercicioPrimos.pdb
