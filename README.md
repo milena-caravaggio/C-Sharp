@@ -4,8 +4,6 @@ Leitura dos livros
 
 "Visual C# 2008"(John Sharp) 
 
-Estudo dirigido SQL (José Augusto)
-
 Desafios:
 
 1°  Receber um valor limitador e mostrar a sequencia de fibonacci até o valor que ultrapasse o limitador e então parar a sequencia
