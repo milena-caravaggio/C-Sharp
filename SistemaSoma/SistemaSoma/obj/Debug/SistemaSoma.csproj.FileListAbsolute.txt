@@ -1,0 +1,9 @@
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\bin\Debug\SistemaSoma.exe.config
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\bin\Debug\SistemaSoma.exe
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\bin\Debug\SistemaSoma.pdb
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.csprojAssemblyReference.cache
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.Form1.resources
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.Properties.Resources.resources
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.csproj.GenerateResource.cache
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.exe
+C:\Users\milen\source\repos\SistemaSoma\SistemaSoma\obj\Debug\SistemaSoma.pdb
