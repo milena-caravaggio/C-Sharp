@@ -3,5 +3,5 @@ Receber um valor limitador e mostrar a sequencia de fibonacci até o valor que u
 
 
 
-![fotofibonacci](https://user-images.githubusercontent.com/48251038/74596769-9664d980-5032-11ea-8aff-5a60d7a75811.JPG)
-![consolePrimos](https://user-images.githubusercontent.com/48251038/74596771-9cf35100-5032-11ea-8b78-4ef13ae48993.JPG)
+![FotoSistemaFibonacci](https://user-images.githubusercontent.com/48251038/74579151-745a5100-4f77-11ea-8e9a-1ae99677454c.png)
+![console1](https://user-images.githubusercontent.com/48251038/74596966-623ee800-5035-11ea-8e92-58a84ff1cbe2.JPG)
