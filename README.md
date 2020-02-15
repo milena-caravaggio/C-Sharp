@@ -1,7 +1,7 @@
 
 # Leitura do livro
 
-"Visual C# 2008"(John Sharp) 
+ "Visual C# 2008"(John Sharp) 
 
 ## Atividades para treinamento seguindo o conteúdo do livro
 
