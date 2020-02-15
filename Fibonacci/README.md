@@ -3,4 +3,4 @@ Receber um valor limitador e mostrar a sequencia de fibonacci até o valor que u
 
 
 
-<img src="https://user-images.githubusercontent.com/48251038/74578912-10835880-4f76-11ea-904a-a7372f1996ae.png" />
+![consolePrimos](https://user-images.githubusercontent.com/48251038/74596771-9cf35100-5032-11ea-8b78-4ef13ae48993.JPG)
