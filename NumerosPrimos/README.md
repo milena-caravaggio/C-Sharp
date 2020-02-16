@@ -3,6 +3,8 @@ Receber um valor limitador e mostrar a sequencia de números primos até o valor
 
 ### Foi Utilizado o padrão de teste TDD (Test-driven development)
 
+TDD se baseia em pequenos ciclos de repetições, onde para cada funcionalidade do sistema um teste é criado antes. Este novo teste criado inicialmente falha, já que ainda não temos a implementação da funcionalidade em questão e, em seguida, implementamos a funcionalidade para fazer o teste passar
+
 ![GifPrimo2](https://user-images.githubusercontent.com/48251038/74603820-41f34580-5096-11ea-8b85-3766a0080bd6.gif)
 
 ![NumeroPrimo](https://user-images.githubusercontent.com/48251038/74579773-ec2a7a80-4f7b-11ea-92cd-ac8faf85e9ce.JPG)
