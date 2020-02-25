@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {}
+    "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {
+    "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj",
+        "projectUniqueName": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj",
         "projectName": "exercicioPrimos",
-        "projectPath": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj",
+        "projectPath": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj",
         "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\obj\\",
+        "outputPath": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

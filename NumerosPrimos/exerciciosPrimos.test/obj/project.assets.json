@@ -4601,11 +4601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exerciciosPrimos.test\\exerciciosPrimos.test.csproj",
+      "projectUniqueName": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exerciciosPrimos.test\\exerciciosPrimos.test.csproj",
       "projectName": "exerciciosPrimos.test",
-      "projectPath": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exerciciosPrimos.test\\exerciciosPrimos.test.csproj",
+      "projectPath": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exerciciosPrimos.test\\exerciciosPrimos.test.csproj",
       "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exerciciosPrimos.test\\obj\\",
+      "outputPath": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exerciciosPrimos.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4626,8 +4626,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {
-              "projectPath": "C:\\Users\\milen\\source\\repos\\exercicioPrimos\\exercicioPrimos\\exercicioPrimos.csproj"
+            "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj": {
+              "projectPath": "C:\\Users\\milen\\OneDrive\\Documentos\\GitHub\\C-Sharp\\NumerosPrimos\\exercicioPrimos\\exercicioPrimos.csproj"
             }
           }
         }
