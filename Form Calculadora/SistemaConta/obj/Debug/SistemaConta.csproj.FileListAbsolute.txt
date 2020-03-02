@@ -1,0 +1,9 @@
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\bin\Debug\SistemaConta.exe.config
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\bin\Debug\SistemaConta.exe
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\bin\Debug\SistemaConta.pdb
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.csprojAssemblyReference.cache
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.Form1.resources
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.Properties.Resources.resources
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.csproj.GenerateResource.cache
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.exe
+C:\Users\milen\source\repos\SistemaConta\SistemaConta\obj\Debug\SistemaConta.pdb
