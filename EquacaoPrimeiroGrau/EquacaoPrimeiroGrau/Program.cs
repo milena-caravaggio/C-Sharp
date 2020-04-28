@@ -29,11 +29,7 @@ namespace EquacaoPrimeiroGrau
             Console.WriteLine("O resultado é:" + result);
            
         }
-
-    
         
-
-
         private static string GetSignal(double b)
         {
             return (b.ToString().StartsWith("-") ? string.Empty : "+");
