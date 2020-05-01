@@ -11,3 +11,16 @@ C:\Users\milen\source\repos\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\ne
 C:\Users\milen\source\repos\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.dll
 C:\Users\milen\source\repos\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.pdb
 C:\Users\milen\source\repos\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.exe
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.dll
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\bin\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.dll
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\C-Sharp\C-Sharp\EquacaoPrimeiroGrau\EquacaoPrimeiroGrau\obj\Debug\netcoreapp3.1\EquacaoPrimeiroGrau.genruntimeconfig.cache

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milen\\source\\repos\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau.csproj",
+      "projectUniqueName": "C:\\Users\\milen\\OneDrive\\Área de Trabalho\\C-Sharp\\C-Sharp\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau.csproj",
       "projectName": "EquacaoPrimeiroGrau",
-      "projectPath": "C:\\Users\\milen\\source\\repos\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau.csproj",
+      "projectPath": "C:\\Users\\milen\\OneDrive\\Área de Trabalho\\C-Sharp\\C-Sharp\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau.csproj",
       "packagesPath": "C:\\Users\\milen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milen\\source\\repos\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\obj\\",
+      "outputPath": "C:\\Users\\milen\\OneDrive\\Área de Trabalho\\C-Sharp\\C-Sharp\\EquacaoPrimeiroGrau\\EquacaoPrimeiroGrau\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
